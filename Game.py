@@ -1,3 +1,2 @@
-# hey
-print('plz work')
-print('round 2')
+# this will be the file that calls the other funtions, the main file
+print('ePet')
